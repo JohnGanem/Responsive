@@ -17,3 +17,9 @@ html, body {
     height: 12px;
     width: 12px; 
 }
+li{
+    list-style-type: none;
+}
+#container img{
+    width:100%;
+}
